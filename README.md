@@ -1,2 +1,2 @@
-# Oct2023
+# lucky
 An assignment
